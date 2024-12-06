@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Playwrite+NG+Modern:wght@100..400&display=swap");
+
+#calculadora {
+  width: 600px;
+  background-color: rgb(92, 92, 92);
+}
+input {
+  width: 100%;
+  height: 50px;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 50px;
+  font-style: normal;
+}
+
+.form-select {
+  width: 30%;
+}
+
+p{
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 50px;
+  font-style: normal;
+}
+
+#resultado{
+    height: 200px;
+}
+
+#resultadoValor{
+    font-size: 100px;
+    color: yellow;
+}
+
